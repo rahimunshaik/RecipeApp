@@ -58,8 +58,8 @@ If you have any feedback, suggestions, or issues, please contact [esarahimun@gma
 ## Acknowledgements
 I would like to acknowledge the following resources and individuals for their contributions and support during the development of this project:
 
-React - A JavaScript library for building user interfaces.
-Edamam Recipe Search API - API used for searching and retrieving recipe information.
+# React - A JavaScript library for building user interfaces.
+# Edamam Recipe Search API - API used for searching and retrieving recipe information.
 Create React App - Tool for quickly setting up a React project.
 React Router - Library for routing in React applications.
 Axios - Promise-based HTTP client for making API requests.
